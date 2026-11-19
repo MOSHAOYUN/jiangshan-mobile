@@ -1,0 +1,2 @@
+atlas_boot.js: 107 -> 104 features; CHGIS prefectures removed, geometry repacked
+atlas_snapshots.js: 3601 -> 1837 features; CHGIS prefectures removed, geometry repacked
